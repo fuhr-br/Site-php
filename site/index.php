@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xml:lang>
 	<head>
 		<title>Vida Alternativa - Site de notícias</title>
 
@@ -62,7 +62,7 @@
 						<div class="caixa-conteudo">
 
 							<h3 class ="letra">Cuidados Básicos</h3>
-					<iframe width="95%" height="315" src="https://www.youtube.com/embed/oloC4q1aHus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe width="95%" height="315" src="https://www.youtube.com/embed/oloC4q1aHus" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							<p>
 							Dicas de prevenção do Coronavírus!
 							</p>
@@ -174,7 +174,7 @@
 
 		<div id="container-rodape" style="clear: both;">
 			<div id="rodape">
-				&copy;Vida Alternativa-Covid-19 2021
+				&copy;Vida Alternativa-Covid-19 2022
 			</div>
 		</div>
 

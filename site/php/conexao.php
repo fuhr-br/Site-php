@@ -1,6 +1,6 @@
 <?php 
 
-$host='heroku_1f4753d840a732b';
+$host='us-cdbr-east-06.cleardb.net';
 $user='b84ef50cd15b47';
 $senha='23c7afc4';
 $banco='heroku_1f4753d840a732b';

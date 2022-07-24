@@ -7,7 +7,7 @@
 
 body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background: #fff url(../imagens/fundo2.JPEG);
+	background: #fff url(../imagens/fundo.JPEG);
 	background-size: cover;
 
 }
@@ -135,6 +135,10 @@ h2 {
 	padding: 5px;
 }
 
+textarea {
+	max-width: 80%;
+}
+
 .caixa-conteudo {
 	background: #fff;
 	padding: 5px;
@@ -163,11 +167,11 @@ h2 {
 /* Formatando formulários
 */
 label {
-	display: block;
 	cursor: pointer;
 }
 
 input {
+	margin-top: 2%;
 	padding: 5px;
 	width: 125px;
 	font-size: 0.9em;
@@ -259,7 +263,7 @@ h4 {
 
 #linha {
 	width: 90%;
-	height: 400px;
+	height: 300px;
 	border: 2px solid #78f8ff;
 	float: center;
 	margin-left: 10px;

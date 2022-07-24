@@ -210,7 +210,7 @@
 <!-- Inicio /Rodapé -->
 		<div id="container-rodape" style="clear: both;">
 			<div id="rodape">
-			&copy;Vida Alternativa-Covid-19 2021
+			&copy;Vida Alternativa-Covid-19 2022
 			</div>
 		</div>
 <!-- fim /Rodapé -->

@@ -89,13 +89,12 @@
 							Educação
 							</legend>	
 							<h3>Qual sua atividade educacional no momento?</h3><br/>
-							 <input type="radio" name="ensinoF"  value="ensinoF"><label class="letra">Ensino Fundamental</label> <br/>
-						     <input type="radio" name="ensinoM" value="ensinoM"><label class="letra">Ensino Médio</label><br/>
-						     <input type="radio" name="ensinoS" value="ensinoS"><label class="letra">Ensino Superior</label><br/>
-						     <input type="radio" name="cursoProf" value="cursoProf"><label class="letra">Cursos Profissionalizantes</label> <br/>
-						     <input type="radio" name="cursoTec" value="cursoTec"><label class="letra">Cursos Técnicos</label>  <br/>
-						     <input type="radio" name="especializacoes" value="especializacoes"><label class="letra">Especializações</label>  <br/>
-						     <input type="radio" name="ne" value="nenhum"><label class="letra">Nenhum</label><br/>
+							 <input type="radio" name="ensino"  value="ensinoF"><label class="letra">Ensino Fundamental</label> <br/>
+						     <input type="radio" name="ensino" value="ensinoM"><label class="letra">Ensino Médio</label><br/>
+						     <input type="radio" name="ensino" value="ensinoS"><label class="letra">Ensino Superior</label><br/>
+						     <input type="radio" name="ensino" value="cursoProf"><label class="letra">Cursos Profissionalizantes</label> <br/>
+						     <input type="radio" name="ensino" value="cursoTec"><label class="letra">Cursos Técnicos</label>  <br/>
+						     <input type="radio" name="ensino" value="nenhum"><label class="letra">Nenhum</label><br/>
 
 							</fieldset>	
 
@@ -168,7 +167,7 @@
 
 		<div id="container-rodape" style="clear: both;">
 			<div id="rodape">
-			&copy;Vida Alternativa-Covid-19 2021
+			&copy;Vida Alternativa-Covid-19 2022
 			</div>
 		</div>
 
