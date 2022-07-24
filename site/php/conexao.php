@@ -1,9 +1,9 @@
 <?php 
 
-$host='localhost';
-$user='root';
-$senha='root';
-$banco='projeto';
+$host='heroku_1f4753d840a732b';
+$user='b84ef50cd15b47';
+$senha='23c7afc4';
+$banco='heroku_1f4753d840a732b';
 
 $conn = new mysqli($host, $user, $senha, $banco);
 
