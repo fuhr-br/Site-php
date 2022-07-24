@@ -295,6 +295,7 @@ legend {
 }
 
 input {
+	margin-top: 10px;
 	margin-left: 10px;
 }
 
@@ -463,11 +464,11 @@ input {
 	}
 
 	label {
-		display: block;
 		cursor: pointer;
 	}
 
 	input {
+		margin-top: 10px;
 		padding: 3px;
 		width: 80%;
 		font-size: 0.9em;
@@ -553,7 +554,7 @@ input {
 
 	#linha {
 		width: 90%;
-		height: 400px;
+		height: 300px;
 		border: 2px solid #78f8ff;
 		float: center;
 		margin-left: 10px;
@@ -749,11 +750,11 @@ input {
 	}
 
 	label {
-		display: block;
 		cursor: pointer;
 	}
 
 	input {
+		margin-top: 10px;
 		padding: 5px;
 		width: 75%;
 		margin-left: -10px;
@@ -846,7 +847,7 @@ input {
 
 	#linha {
 		width: 90%;
-		height: 400px;
+		height: 300px;
 		border: 2px solid #78f8ff;
 		float: center;
 		margin-left: 10px;
@@ -878,6 +879,7 @@ input {
 	}
 
 	input {
+		margin-top: 10px;
 		margin-left: 10px;
 	}
 
@@ -1036,13 +1038,12 @@ input {
 		color: #a1a1a1;
 	}
 
-
 	label {
-		display: block;
 		cursor: pointer;
 	}
 
 	input {
+		margin-top: 10px;
 		padding: 5px;
 		width: 75%;
 		margin-left: -10px;
@@ -1134,7 +1135,7 @@ input {
 
 	#linha {
 		width: 95%;
-		height: 480px;
+		height: 300px;
 		border: 2px solid #78f8ff;
 		float: center;
 		margin-left: 10px;
@@ -1166,6 +1167,7 @@ input {
 	}
 
 	input {
+		margin-top: 10px;
 		margin-left: 10px;
 	}
 
@@ -1327,11 +1329,11 @@ input {
 	}
 
 	label {
-		display: block;
 		cursor: pointer;
 	}
 
 	input {
+		margin-top: 10px;
 		padding: 5px;
 		width: 75%;
 		margin-left: -10px;
@@ -1423,7 +1425,7 @@ input {
 
 	#linha {
 		width: 95%;
-		height: 480px;
+		height: 300px;
 		border: 2px solid #78f8ff;
 		float: center;
 		margin-left: 10px;
