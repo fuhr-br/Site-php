@@ -1,38 +1,11 @@
  <?php 
-
- include('./conexao.php');
-
 $email=$_POST['email'];
-
-$sql="INSERT INTO notificacoes(email)
-VALUES('$email')";
-
-if ($conn->query($sql)===TRUE) {
-	echo "<script language='javascript' type='text/javascript'>
-
-			alert('Obrigada por se cadastrar em nosso site, em breve receberá nosso email com novidades:)!');
-
-			window.location.href='../index.php';</script>";			
-
-			die();
-}else{
-
-	echo "Erro:".$sql."<br/>".$conn->error;
-	echo "<br/>";
-	echo "Não possivel realizar o cadastro";
+$mensagem ='Olá seja bem vindo ao Vida Alternativa!';
+$assunto = "Noticias"
+mail($email,$assunto,$mensagem);	
+if (!$mail->send()) {
+	echo "Falha ao enviar o email: " . $mail->ErrorInfo;
+} else {
+	echo "Mensagem enviada com Sucesso!";
 }
-$conn->close();
-
- 
-  
-
-
-
-
-
-
-
-
-
-
   ?>

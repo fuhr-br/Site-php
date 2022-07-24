@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xml:lang>
+<html>
 	<head>
 		<title>Vida Alternativa - Site de notícias</title>
 
@@ -149,7 +149,7 @@
 						<h2>News</h2>
 						<div class="caixa-conteudo">
 							
-							<form action="./php/notificacoes.php" method="post">
+							<form action="./php/notificacoes.php" name="email-form" method="post">
 								<div>
 									<label for="email">Email:</label>
 									<input type="text" name="email" id="email" placeholder="E-mail" placeholder="nome@dominio.com" 
